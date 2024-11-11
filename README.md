@@ -1,3 +1,8 @@
+![github-header-image](https://github.com/user-attachments/assets/6578b3bf-092c-401e-8817-880465b9c762)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Shashank Kotagi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
