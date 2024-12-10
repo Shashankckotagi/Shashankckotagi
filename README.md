@@ -1,20 +1,19 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=700&size=28&pause=1000&color=1A237E&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Shashank+Kotagi+%E2%9C%8C%EF%B8%8F;Exploring+ML+and+AI+%F0%9F%93%88;Sophomore+%40MSRIT+%F0%9F%9A%A8" alt="Typing SVG" />
-</h1>
+# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=1A237E&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Shashank+Kotagi+%E2%9C%8C%EF%B8%8F;Exploring+ML+and+AI+%F0%9F%93%88;Sophomore+%40MSRIT+%F0%9F%9A%A8)](https://git.io/typing-svg)</div>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shashankckotagi&color=6C63FF&style=flat-square" alt="Profile views" />
-  <a href="[https://www.linkedin.com/in/shashank-kotagi-546655295/]"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:shashankckotagi@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linktr.ee/Shashankckotagi"><img src="https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Linktree&logoColor=white" alt="Portfolio" /></a>
-</p>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Shashankckotagi&color=6C63FF&style=for-the-badge)
+  [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-kotagi-546655295/)
+  [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shashankckotagi@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-39E09B?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/Shashankckotagi)
+</div>
 
 ## 🚀 About Me
-I’m a passionate developer with a deep interest in Artificial Intelligence and Machine Learning (AIML). I love building intelligent, user-friendly systems that solve real-world problems. With a focus on clean code and innovative solutions, I work with modern technologies to bring AI-powered applications to life. Continuously learning and adapting to new advancements in AIML, I strive to create impactful and scalable solutions that push the boundaries of what technology can achieve.
+I'm a passionate developer with a deep interest in Artificial Intelligence and Machine Learning (AIML). I love building intelligent, user-friendly systems that solve real-world problems. With a focus on clean code and innovative solutions, I work with modern technologies to bring AI-powered applications to life. Continuously learning and adapting to new advancements in AIML, I strive to create impactful and scalable solutions that push the boundaries of what technology can achieve.
 
 ## 🌱 Current Focus
-I’m currently exploring advanced web development concepts and keeping myself updated with the latest frontend technologies. Each day presents a new opportunity to learn, grow, and refine my skills in creating cutting-edge web experiences.
+I'm currently exploring advanced web development concepts and keeping myself updated with the latest frontend technologies. Each day presents a new opportunity to learn, grow, and refine my skills in creating cutting-edge web experiences.
+
 ## 🛠️ Skills & Technologies
 <div align="center">
 
@@ -27,34 +26,32 @@ I’m currently exploring advanced web development concepts and keeping myself u
 </div>
 
 ## 📊 GitHub Stats
+<div align="center">
 
 ![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashankckotagi&show_icons=true&theme=radical)
-
-
-## 🏆 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shashankckotagi&theme=radical&hide_border=true)
-
-## 🌱 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankckotagi&bg_color=1E2A47&color=ffffff&line=00C8FF&point=FFB3B3&area=true&hide_border=true&theme=tokyonight" alt="Shashank's Contribution Graph" />
 </div>
 
+## 🏆 GitHub Streak
+<div align="center">
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Shashankckotagi&theme=radical&hide_border=true)
+</div>
 
+## 🌱 Contribution Graph
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankckotagi&bg_color=1E2A47&color=ffffff&line=00C8FF&point=FFB3B3&area=true&hide_border=true&theme=tokyonight" alt="Shashank's Contribution Graph" />
+</div>
 
 ## 📫 Let's Connect!
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shashank-kotagi-546655295/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-kotagi-546655295/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](your-resume-url)
-
 </div>
-## :zap: Open Source Programs & Achievements
 
+## ⚡ Open Source Programs & Achievements
 <div align="center">
   <table>
     <tr align="center">
@@ -128,20 +125,20 @@ I’m currently exploring advanced web development concepts and keeping myself u
   </table>
 </div>
 
-<br>
+
+
 ## 🎯 Fun Fact
-When I’m not coding, you can find me hanging out with friends or diving into the latest tech trends. The ever-evolving world of technology keeps me excited, and I’m always on the lookout for the next big thing!
-
-
+When I'm not coding, you can find me hanging out with friends or diving into the latest tech trends. The ever-evolving world of technology keeps me excited, and I'm always on the lookout for the next big thing!
 
 ## 🤝 Open to Collaboration
-I’m always eager to collaborate on exciting projects! Feel free to browse through my repositories and reach out if you’re interested in working together or simply want to chat about technology.
+I'm always eager to collaborate on exciting projects! Feel free to browse through my repositories and reach out if you're interested in working together or simply want to chat about technology.
+
 ---
 
 <div align="center">
 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Shashankckotagi&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Shashankckotagi&color=brightgreen&style=for-the-badge)
 
 ### 🌟 Let's build something amazing together!
 
