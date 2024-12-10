@@ -5,17 +5,16 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shashankckotagi&color=6C63FF&style=flat-square" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/Shashankckotagi"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin" alt="LinkedIn" /></a>
+  <a href="[https://www.linkedin.com/in/shashank-kotagi-546655295/]"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin" alt="LinkedIn" /></a>
   <a href="mailto:shashankckotagi@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linktr.ee/Shashankckotagi"><img src="https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Linktree&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ## 🚀 About Me
-I'm a passionate Frontend Developer who loves creating beautiful and user-friendly web experiences. With a keen eye for design and a love for clean code, I transform ideas into reality through the power of web technologies.
+I’m a passionate developer with a deep interest in Artificial Intelligence and Machine Learning (AIML). I love building intelligent, user-friendly systems that solve real-world problems. With a focus on clean code and innovative solutions, I work with modern technologies to bring AI-powered applications to life. Continuously learning and adapting to new advancements in AIML, I strive to create impactful and scalable solutions that push the boundaries of what technology can achieve.
 
 ## 🌱 Current Focus
-Currently diving deep into advanced web development concepts and staying up-to-date with the latest frontend technologies. Every day is a new opportunity to learn and grow!
-
+I’m currently exploring advanced web development concepts and keeping myself updated with the latest frontend technologies. Each day presents a new opportunity to learn, grow, and refine my skills in creating cutting-edge web experiences.
 ## 🛠️ Skills & Technologies
 <div align="center">
 
@@ -48,7 +47,7 @@ Currently diving deep into advanced web development concepts and staying up-to-d
 ## 📫 Let's Connect!
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shashank-kotagi-546655295/])
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](your-resume-url)
@@ -66,9 +65,13 @@ Currently diving deep into advanced web development concepts and staying up-to-d
           <strong>GirlScript Summer of Code</strong>
         </a>
         <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Ranked 420th</span>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked 17th</span>
         <br>
-        <span style="font-size: 12px; color: #777777;"
+        <span style="font-size: 12px; color: #777777;">
+	  Out of 17,000+ participants<br>
+          PRs Merged: 154<br>
+          Total Badges: 8<br>
+          Total Score: 3020<br>
         </span>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
@@ -80,24 +83,24 @@ Currently diving deep into advanced web development concepts and staying up-to-d
               <strong>Explorer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
+              <img src="https://github.com/Shashankckotagi/Shashankckotagi/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
               <br>
               <strong>Adventurer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
+              <img src="https://github.com/Shashankckotagi/Shashankckotagi/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
               <br>
               <strong>Champion Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+              <img src="https://github.com/Shashankckotagi/Shashankckotagi/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
               <br>
               <strong>Trailblazer Badge</strong>
             </td>
           </tr>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <img src="https://github.com/Shashankckotagi/Shashankckotagi/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
               <br>
               <strong>Summit Seeker Badge</strong>
             </td>
@@ -127,11 +130,12 @@ Currently diving deep into advanced web development concepts and staying up-to-d
 
 <br>
 ## 🎯 Fun Fact
-When I'm not coding, I love to chill with friends and explore new tech trends. There's always something exciting happening in the tech world!
+When I’m not coding, you can find me hanging out with friends or diving into the latest tech trends. The ever-evolving world of technology keeps me excited, and I’m always on the lookout for the next big thing!
+
+
 
 ## 🤝 Open to Collaboration
-I'm always excited to collaborate on interesting projects! Feel free to explore my repositories and reach out if you'd like to work together or just chat about tech.
-
+I’m always eager to collaborate on exciting projects! Feel free to browse through my repositories and reach out if you’re interested in working together or simply want to chat about technology.
 ---
 
 <div align="center">
