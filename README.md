@@ -63,13 +63,13 @@ I'm currently exploring advanced web development concepts and keeping myself upd
           <strong>GirlScript Summer of Code</strong>
         </a>
         <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Ranked 17th</span>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked 420th</span>
         <br>
         <span style="font-size: 12px; color: #777777;">
 	  Out of 17,000+ participants<br>
-          PRs Merged: 154<br>
+          PRs Merged: 2<br>
           Total Badges: 8<br>
-          Total Score: 3020<br>
+          Total Score: 1000<br>
         </span>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
